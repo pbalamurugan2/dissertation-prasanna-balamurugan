@@ -1,0 +1,17 @@
+Prasanna would like to do a data analysis / data visualisation project.
+
+I should ask colleagues if they have a good data source to analyse, be it medical or not.
+
+Also, ask if this would be too hard on an ethical review.
+
+TASK 1
+
+Please create a hosted git repository and invite me to that repository.
+Use my e-mail address g.buday@sheffield.ac.uk
+
+TASK 2
+
+Look at the statistics formalisation I sent you per e-mail. Ask questions.
+
+Think about another classical result in statistics that you would like to 
+formalise. Let me know what would be your idea.
