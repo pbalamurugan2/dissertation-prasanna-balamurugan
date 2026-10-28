@@ -1,0 +1,35 @@
+TASK 1
+
+Please write down your Description Stage document on the formal verification
+of a Role Based Access Control for some system.
+
+Keep in mind the assessment criteria for this document, quoted from the 
+Undergraduate Student Handbook:
+
+---
+
+Assessment
+
+At this stage the aim is to make sure that the project is feasible, given any relevant working constraints. No marks will be awarded at this stage, although submission is compulsory. Your supervisor will be continually judging your performance on the project and this report will contribute to his/her judgement. In considering your report your supervisor will ponder the following questions:
+
+    Is the project clearly defined?
+
+    Is the project feasible?
+
+    Does the student know what they are doing?
+
+    Have potential problems and possible processes/tools/techniques been identified?
+
+    Is the plan of action realistic?
+
+Answers to these questions will contribute to the feedback.
+
+You will not be permitted to continue with the project if the report does not describe a feasible project. Instead, it will have to be modified according to the examiners' suggestions.
+
+---
+
+TASK 2
+
+Look at the Amazon Nitro verification effort:
+
+https://aws.amazon.com/blogs/compute/aws-nitro-isolation-engine-formally-verifying-the-hypervisor-in-the-aws-nitro-system/
