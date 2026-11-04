@@ -1,0 +1,15 @@
+Prasanna decided to go for the data analytics project in which Vita Lanfranchi would
+give him energy consumption data from the Regent Court building, the building of
+the School of Computer Science.
+
+TASK 1
+
+Please meet Vita Lanfranchi, sign the necessary data access forms and start working
+on the project.
+
+Ask if an Ethics approval is needed for working with the data.
+
+TASK 2
+
+Look at TASK 1 of last week, now you need to write a Description Stage document
+with the expectations listed last week taken into account.
